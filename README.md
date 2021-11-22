@@ -25,7 +25,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 ```
 git clone https://github.com/jnurmine/Zenburn.git
-cp -r Zenburn/colors/ .vim/
+cp -r Zenburn/colors/ ~/.vim/
 ```
 4) Install plugins
 
